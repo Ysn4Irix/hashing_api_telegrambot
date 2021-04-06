@@ -1,0 +1,14 @@
+{
+  "name": "callapi",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.51.0",
+    "request": "^2.88.2"
+  }
+}
